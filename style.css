@@ -1,0 +1,13 @@
+.ao{ 
+    text-align: center; 
+   } 
+   .img{  
+       border-radius: 5px;  
+       position: relative;  
+       top: 5px;  
+   } 
+   .likes{ 
+    display: flex;   
+       align-items: center;   
+       
+   }
